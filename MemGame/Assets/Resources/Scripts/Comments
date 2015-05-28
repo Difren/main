@@ -1,1 +1,5 @@
-Card.cs - Card ge
+Card.cs - Card render, animation
+GameSettings.cs - GUI for Settings 
+Playmat.cs - Game mech
+UI.cs - Main GUI
+Slot.cs - Definition for card
