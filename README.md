@@ -1,2 +1,2 @@
 # main
-Source code Assets/Scripts
+Source code Assets/Resources/Scripts
